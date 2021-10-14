@@ -29,4 +29,4 @@ jobs:
           # Stage the file, commit and push
           git add hosts
           git commit -m "Host File Updated"
-          git push origin master
+          git push origin main
