@@ -4,7 +4,7 @@
 
 # BlockAds
 
-BlockAds is an advertisement blocking Magisk module. This a forked version of the original project which doesn't block porn sites.
+BlockAds is an advertisement blocking Magisk module. This is a forked version of the original project which doesn't block porn sites.
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Downloads](https://shields.io/github/downloads/pantsufan/BlockAds/total?style=for-the-badge)
