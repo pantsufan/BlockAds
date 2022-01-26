@@ -18,6 +18,9 @@ jobs:
           mv index.html hosts
           wget https://o0.pages.dev/Lite/hosts.txt
           sed '1,33d' hosts.txt >> hosts
+          wget https://gist.githubusercontent.com/pantsufan/ba4762d25de269dcdaa9f692ea6f9f5c/raw/9882032fa57fe910260d00fa959a80e0b05c2300/ms_adblock.txt
+          cat ms_adblock.txt >> hosts
+          rm ms_adblock.txt
 
       - name: setup git config
         run: |
