@@ -11,9 +11,21 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v2
+        
+      - name: setup git config
+        run: |
+          git config user.name "pantsufan"
+          git config user.email "joel28@protonmail.com"
+          
+      - name: commit
+        run: |
+          # Stage the file, commit and push
+          git rm hosts
+          git commit -m "Removed Host"
+          git push origin main
 
       - name: Start Building
-        run: |
+        run:  |
           echo "Satrting...."
           wget https://hblock.molinero.dev/hosts
           wget https://o0.pages.dev/Lite/hosts.txt
@@ -25,12 +37,7 @@ jobs:
           sed -i "/s.youtube.com/d" hosts
           sed -i "/s2.youtube.com/d" hosts
           echo "Done Building!"
-
-      - name: setup git config
-        run: |
-          git config user.name "pantsufan"
-          git config user.email "joel28@protonmail.com"
-
+        
       - name: commit
         run: |
           # Stage the file, commit and push
