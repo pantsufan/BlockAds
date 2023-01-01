@@ -26,7 +26,7 @@ jobs:
 
       - name: Start Building
         run:  |
-          echo "Satrting...."
+          echo "Starting....."
           wget https://hblock.molinero.dev/hosts
           wget https://o0.pages.dev/Lite/hosts.txt
           sed '1,33d' hosts.txt >> hosts
