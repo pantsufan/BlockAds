@@ -27,15 +27,10 @@ jobs:
       - name: Start Building
         run:  |
           echo "Starting....."
-          wget https://hblock.molinero.dev/hosts
-          wget https://o0.pages.dev/Lite/hosts.txt
-          sed '1,33d' hosts.txt >> hosts
-          rm hosts.txt
+          wget https://raw.githubusercontent.com/pantsufan/Project-Lite/main/hosts
           wget https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/hosts.txt
           cat hosts.txt >> hosts
           rm hosts.txt
-          sed -i "/s.youtube.com/d" hosts
-          sed -i "/s2.youtube.com/d" hosts
           echo "Done Building!"
         
       - name: commit
