@@ -50,19 +50,7 @@ jobs:
           mv BlockAds-$newVersion.zip temp
           cd ..
           echo "Build Done"
-
-      - name: Determine Version
-        id: version
-        run: |
-          currentVersion=$(git describe --tags --abbrev=0)
-          major=$(echo "$currentVersion" | awk -F'.' '{print substr($1,2)}')
-          minor=$(echo "$currentVersion" | awk -F'.' '{print $2}')
-          minor=$((minor + 1))
-          if [ "$minor" -eq 100 ]; then
-            minor=0
-            major=$((major + 1))
-          fi
-          echo "VERSION_LEVEL=v${major}.${minor}" >> $GITHUB_ENV
+          echo $newVersion >> $GITHUB_ENV
 
       - name: Create Release
         id: create_release
