@@ -3,7 +3,7 @@
 ![Stars](https://img.shields.io/github/stars/r-neuschulz/IncreaseProd?style=for-the-badge)
 
 <p align="center">
-  <img src="ImproveProd.png" width="50%">
+  <img src="IncreaseProd.png" width="50%">
 </p>
 
 # IncreaseProd
