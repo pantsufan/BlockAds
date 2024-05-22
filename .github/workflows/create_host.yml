@@ -14,8 +14,8 @@ jobs:
 
     - name: setup git config
       run: |
-        git config user.name "pantsufan"
-        git config user.email "joel28@protonmail.com"
+        git config user.name "r-neuschulz"
+        git config user.email "r-neuschulz@protonmail.com"
 
     - name: Remove old file
       run: |
@@ -30,7 +30,7 @@ jobs:
 
     - name: Download converter.php
       run: |
-        curl -o converter.php https://gist.githubusercontent.com/pantsufan/e4b8876154d1436d8b13743bb07f3a8a/raw/converter.php
+        curl -o converter.php https://gist.github.com/r-neuschulz/f73ab062f074ddcec21fd02373210860/raw/converter.php
 
     - name: Run Script
       run: |
