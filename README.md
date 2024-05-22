@@ -2,36 +2,40 @@
   <img src="logo.png">
 </p>
 
-# BlockAds
-
-BlockAds is an advertisement blocking Magisk module. This is a forked version of the original project which doesn't block porn sites.
+# ImproveProd
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Downloads](https://img.shields.io/github/downloads/pantsufan/BlockAds/total?color=green&style=for-the-badge)
-![Release](https://img.shields.io/github/v/release/pantsufan/BlockAds?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/pantsufan/BlockAds?style=for-the-badge)
-[![Donate](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kninja)
+
+ImproveProd is a comprehensive Magisk module designed to enhance productivity by blocking advertisements, excluding focus-draining content, and eliminating time-wasting distractions.
+
+![Downloads](https://img.shields.io/github/downloads/r-neuschulz/ImproveProd/total?color=green&style=for-the-badge)
+![Release](https://img.shields.io/github/v/release/r-neuschulz/ImproveProd?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/r-neuschulz/ImproveProd?style=for-the-badge)
 
 # Features
 
 - Blocks Ads
 - Blocks Android Apps Ads
+- Blocks Systemwide Capacity Drainers (YouTube, Reddit, etc.)
 
 # Download
 
-- [Magisk Module](https://github.com/pantsufan/BlockAds/releases)
+- [Magisk Module](https://github.com/r-neuschulz/ImproveProd/releases)
 
 # Updates
 
-The module would be updated every month
-
-## To Get Updates Faster Join The Telegram Channel
-
-[![Telegram Channel](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adsblocker)
+This module is designed to work out-of-the-box and will be occasionally updated as needed.
 
 # Credits
 
 - [@topjohnwu](https://github.com/topjohnwu) for Magisk.
-- [@Zackptg5](https://github.com/Zackptg5/MMT-Extended) For Magisk Template
-- [OISD](https://oisd.nl/) For Host File
-- [1Hosts](https://github.com/badmojr/1Hosts) For Host File
+- [@Zackptg5](https://github.com/Zackptg5/MMT-Extended) for the Magisk Template.
+- [OISD](https://oisd.nl/) for the Host File.
+- [1Hosts](https://github.com/badmojr/1Hosts) for the Host File.
+- [BlockAds](https://github.com/pantsufan/BlockAds) for the initial project inspiration and foundation.
+
+# Additional Information
+
+ImproveProd aims to provide a streamlined, distraction-free experience for Android users by targeting and blocking sources of unwanted content and time sinks. It leverages powerful host files and templates to ensure system-wide effectiveness and reliability. 
+
+For more details, visit the [GitHub repository](https://github.com/r-neuschulz/ImproveProd).
