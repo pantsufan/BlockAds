@@ -1,17 +1,19 @@
+![Downloads](https://img.shields.io/github/downloads/r-neuschulz/IncreaseProd/total?color=green&style=for-the-badge)
+![Release](https://img.shields.io/github/v/release/r-neuschulz/IncreaseProd?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/r-neuschulz/IncreaseProd?style=for-the-badge)
+
 <p align="center">
   <img src="logo.png">
 </p>
 
 # IncreaseProd
 
-IncreaseProd is a comprehensive Magisk module designed to enhance productivity by blocking advertisements, excluding focus-draining content, and eliminating time-wasting distractions.
-
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Magisk](https://img.shields.io/badge/Magisk-8A2BE2?style=for-the-badge&logo=magisk&logoColor=white)
 ![Root](https://img.shields.io/badge/Root-ff0000?style=for-the-badge&logo=superuser&logoColor=white)
-![Downloads](https://img.shields.io/github/downloads/r-neuschulz/IncreaseProd/total?color=green&style=for-the-badge)
-![Release](https://img.shields.io/github/v/release/r-neuschulz/IncreaseProd?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/r-neuschulz/IncreaseProd?style=for-the-badge)
+
+IncreaseProd is a comprehensive Magisk module designed to enhance productivity by blocking advertisements, excluding focus-draining content, and eliminating time-wasting distractions.
+
 
 # Features
 
