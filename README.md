@@ -2,15 +2,15 @@
   <img src="logo.png">
 </p>
 
-# ImproveProd
+# IncreaseProd
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-ImproveProd is a comprehensive Magisk module designed to enhance productivity by blocking advertisements, excluding focus-draining content, and eliminating time-wasting distractions.
+IncreaseProd is a comprehensive Magisk module designed to enhance productivity by blocking advertisements, excluding focus-draining content, and eliminating time-wasting distractions.
 
-![Downloads](https://img.shields.io/github/downloads/r-neuschulz/ImproveProd/total?color=green&style=for-the-badge)
-![Release](https://img.shields.io/github/v/release/r-neuschulz/ImproveProd?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/r-neuschulz/ImproveProd?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/r-neuschulz/IncreaseProd/total?color=green&style=for-the-badge)
+![Release](https://img.shields.io/github/v/release/r-neuschulz/IncreaseProd?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/r-neuschulz/IncreaseProd?style=for-the-badge)
 
 # Features
 
@@ -20,7 +20,7 @@ ImproveProd is a comprehensive Magisk module designed to enhance productivity by
 
 # Download
 
-- [Magisk Module](https://github.com/r-neuschulz/ImproveProd/releases)
+- [Magisk Module](https://github.com/r-neuschulz/IncreaseProd/releases)
 
 # Updates
 
@@ -34,8 +34,9 @@ This module is designed to work out-of-the-box and will be occasionally updated 
 - [1Hosts](https://github.com/badmojr/1Hosts) for the Host File.
 - [BlockAds](https://github.com/pantsufan/BlockAds) for the initial project inspiration and foundation.
 
+
 # Additional Information
 
-ImproveProd aims to provide a streamlined, distraction-free experience for Android users by targeting and blocking sources of unwanted content and time sinks. It leverages powerful host files and templates to ensure system-wide effectiveness and reliability. 
+ImproveProd aims to provide a streamlined, distraction-free experience for Android users by targeting and blocking sources of unwanted content and time sinks. It leverages the hosts file to ensure system-wide effectiveness and reliability. Will require root. 
 
 For more details, visit the [GitHub repository](https://github.com/r-neuschulz/ImproveProd).
