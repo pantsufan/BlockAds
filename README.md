@@ -4,10 +4,11 @@
 
 # IncreaseProd
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
 IncreaseProd is a comprehensive Magisk module designed to enhance productivity by blocking advertisements, excluding focus-draining content, and eliminating time-wasting distractions.
 
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Magisk](https://img.shields.io/badge/Magisk-8A2BE2?style=for-the-badge&logo=magisk&logoColor=white)
+![Root](https://img.shields.io/badge/Root-ff0000?style=for-the-badge&logo=superuser&logoColor=white)
 ![Downloads](https://img.shields.io/github/downloads/r-neuschulz/IncreaseProd/total?color=green&style=for-the-badge)
 ![Release](https://img.shields.io/github/v/release/r-neuschulz/IncreaseProd?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/r-neuschulz/IncreaseProd?style=for-the-badge)
@@ -38,5 +39,3 @@ This module is designed to work out-of-the-box and will be occasionally updated 
 # Additional Information
 
 ImproveProd aims to provide a streamlined, distraction-free experience for Android users by targeting and blocking sources of unwanted content and time sinks. It leverages the hosts file to ensure system-wide effectiveness and reliability. Will require root. 
-
-For more details, visit the [GitHub repository](https://github.com/r-neuschulz/ImproveProd).
